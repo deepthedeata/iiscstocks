@@ -1,0 +1,15 @@
+yahoo-finance
+yfinance
+matplotlib
+seaborn
+numpy
+pandas
+plotly
+streamlit
+scikit-learn
+utils
+fundamentalanalysis
+feedparser
+beautifulsoup4
+transformers
+torch
